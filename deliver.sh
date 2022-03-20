@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# this script is used to stress test gdpxl server
+# this script is used to stress httpd server
 scriptdir=$(dirname `realpath $0`)
 cd $scriptdir
 shopt -s expand_aliases
