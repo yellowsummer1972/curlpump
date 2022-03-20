@@ -1,5 +1,13 @@
 # curlpump
 pumping curl requests to stress test number of sites and find the breaking point
+I've included a list known Russian gov and propaganda websites for you to "test"
+
+
+Requirements
+- You need a linux host with docker 
+- Have some understanding with bash
+- Have VPN while running this to attack websites. (This is important: Don't run it if you don't have vpn)
+
 
 How to build and run 
 
